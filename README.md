@@ -17,7 +17,7 @@ O script segue estes passos para testar uma URL em busca de vulnerabilidades de 
 
 1. Clone o repositório para o seu ambiente local.
 2. Abra um terminal e navegue até o diretório do script.
-3. Execute o script usando o comando `python3 XSSRecon.py`.
+3. Execute o script usando o comando `python3 xsstest.py`.
 4. Quando solicitado, insira a URL alvo.
 5. O script testará automaticamente a URL em busca de vulnerabilidades de XSS e exibirá os resultados.
 
