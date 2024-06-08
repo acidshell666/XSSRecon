@@ -24,7 +24,7 @@ def save_payloads(domain, payloads):
 
 def main():
     try:
-        target_url = input("Insira a URL alvo: ")
+        target_url = input("URL: ")
 
         if not target_url.startswith("http"):
             print("URL inválida. Certifique-se de incluir 'http://' ou 'https://'")
